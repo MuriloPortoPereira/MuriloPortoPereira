@@ -1,24 +1,42 @@
 # Murilo Porto Pereira
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00D9FF&width=800&lines=Estudante+de+ADS+no+Instituto+Infnet;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Foco+em+HTML%2C+CSS%2C+JavaScript%2C+Python+e+SQL;Construindo+projetos+pr%C3%A1ticos+para+evoluir+na+programa%C3%A7%C3%A3o" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00D9FF&width=850&lines=Estudante+de+Engenharia+de+Software+no+Instituto+Infnet;Foco+principal+em+Desenvolvimento+Back-end;Base+em+Python+e+SQL;Atualmente+estudando+C%23%2C+Java%2C+HTML%2C+CSS%2C+JavaScript+e+Git" alt="Typing SVG" />
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Infnet e estou em transição de carreira para a área de Desenvolvimento Full Stack.
+Sou estudante de **Engenharia de Software no Instituto Infnet**, com principal interesse em **Desenvolvimento Back-end**.
 
-Atualmente estou desenvolvendo minha base em programação, lógica, desenvolvimento web, banco de dados e versionamento de código. Meu foco é construir projetos práticos, evoluir tecnicamente e conquistar minha primeira oportunidade como estagiário ou desenvolvedor júnior.
+Atualmente estou ampliando minha base em programação e engenharia de software, estudando novas linguagens e tecnologias enquanto continuo evoluindo os conhecimentos já adquiridos em **Python e SQL**.
+
+Meu objetivo é desenvolver uma base técnica sólida, construir projetos ao longo da graduação e me preparar para oportunidades profissionais na área de desenvolvimento de software.
 
 ---
 
 ## Objetivo profissional
 
-Busco uma oportunidade na área de tecnologia, especialmente em desenvolvimento web, onde eu possa aprender com projetos reais, contribuir com responsabilidade e crescer de forma consistente como desenvolvedor.
+Busco uma oportunidade na área de tecnologia, com foco principalmente em **Desenvolvimento Back-end**, onde eu possa aplicar os conhecimentos adquiridos durante a graduação, aprender com projetos reais e evoluir de forma consistente como desenvolvedor.
 
 ---
 
-## Tecnologias em estudo
+## Tecnologias estudadas e em estudo
+
+### Já estudadas
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
+
+</div>
+
+### Em estudo atualmente
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </div>
 
@@ -26,46 +44,46 @@ Busco uma oportunidade na área de tecnologia, especialmente em desenvolvimento 
 
 ## Áreas de interesse
 
-- Desenvolvimento Front-End
-- Desenvolvimento Back-End
-- Desenvolvimento Full Stack
+- **Desenvolvimento Back-end — foco principal**
 - Banco de Dados
-- Automação de processos
-- Sistemas web para negócios locais
-- Dashboards e aplicações com dados
+- Engenharia de Software
 
 ---
 
 ## Projetos em desenvolvimento
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| Portfólio Pessoal | Site profissional para apresentar minha trajetória, projetos e contatos | HTML, CSS, JavaScript |
-| Dashboard Financeiro | Aplicação para registrar operações, calcular lucro, risco e desempenho | HTML, CSS, JavaScript |
-| Sistema de Cadastro | CRUD simples para cadastro, edição, busca e exclusão de clientes | JavaScript, Banco de Dados |
-| Projetos Acadêmicos | Exercícios e trabalhos desenvolvidos durante o curso de ADS | Python, SQL, Web |
+Esta seção será atualizada conforme novos projetos acadêmicos e pessoais forem desenvolvidos e estiverem prontos para apresentação.
+
+<!--
+Modelo para futuros projetos:
+
+| Projeto | Descrição | Tecnologias | Repositório |
+|---|---|---|---|
+| Nome do projeto | Breve descrição | Tecnologias utilizadas | Link |
+-->
 
 ---
 
 ## Formação
 
-**Análise e Desenvolvimento de Sistemas**  
+**Engenharia de Software**  
 Instituto Infnet  
-Previsão de conclusão: Outubro de 2028
+**Previsão de conclusão: 2030**
 
 ---
 
 ## Em evolução
 
-Atualmente estou estudando e praticando:
+Meu momento atual é de construção e aprofundamento da base necessária para atuar com desenvolvimento de software, com foco crescente em **Back-end**.
 
-- Lógica de programação
-- Estruturação de páginas web
-- JavaScript moderno
-- Python
-- SQL
-- Git e GitHub
-- Organização de projetos para portfólio
+| Área | Momento atual |
+|---|---|
+| **Back-end** | Aprofundando conhecimentos com C# e Java |
+| **Programação** | Evoluindo a base construída com Python |
+| **Banco de Dados** | Consolidando conhecimentos em SQL |
+| **Desenvolvimento Web** | Estudando HTML, CSS e JavaScript |
+| **Versionamento** | Estudando Git |
+| **Engenharia de Software** | Desenvolvendo conhecimentos ao longo da graduação |
 
 ---
 
@@ -73,9 +91,3 @@ Atualmente estou estudando e praticando:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Murilo%20Porto%20Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloportopereira/)
 [![GitHub](https://img.shields.io/badge/GitHub-MuriloPortoPereira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuriloPortoPereira)
-
----
-
-## Frase guia
-
-> Aprendizado constante, projetos práticos e evolução diária.
