@@ -16,7 +16,7 @@ Busco uma oportunidade na área de tecnologia, com foco principalmente em **Dese
 
 ---
 
-## Tecnologias estudadas e em estudo
+## Tecnologias
 
 ### Já estudadas
 
